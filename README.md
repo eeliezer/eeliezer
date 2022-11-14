@@ -1,6 +1,17 @@
-Hello, I´m Eliezer (@eeliezer).
-Multimedia designer learning programming languages.
-
+👋 Hello, I´m Eliezer (@eeliezer).
+💻 Multimedia designer.
+  - HTML ✔️
+  - CSS ✔️
+  - Boostrap ✔️
+  - Tailwind CSS ✔️
+  - Sass ✔️
+  - Javascript ✔️
+- 🔍 I’m currently learning:
+  - React ⏳
+  - Node.js ⏳
+  - Express.js ⏳
+  - MongoDB ⏳
+  - PostgreSQL ⏳
 <!---
 - 👋 Hi, I’m @eeliezer
 - 👀 I’m interested in ...

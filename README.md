@@ -6,8 +6,8 @@
   - Tailwind CSS ✔️
   - Sass ✔️
   - Javascript ✔️
+  - React ✔️
 - 🔍 I’m currently learning:
-  - React ⏳
   - Node.js ⏳
   - Express.js ⏳
   - MongoDB ⏳

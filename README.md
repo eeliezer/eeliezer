@@ -7,11 +7,12 @@
   - Sass ✔️
   - Javascript ✔️
   - React ✔️
+  - Node.js ✔️
+  - Express.js ✔️
+  - MongoDB ✔️
+  - PostgreSQL ✔️
 - 🔍 I’m currently learning:
-  - Node.js ⏳
-  - Express.js ⏳
-  - MongoDB ⏳
-  - PostgreSQL ⏳
+  - Soon
 <!---
 - 👋 Hi, I’m @eeliezer
 - 👀 I’m interested in ...

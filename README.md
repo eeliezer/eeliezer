@@ -1,5 +1,5 @@
 👋 Hello, I´m Eliezer (@eeliezer).
-💻 Multimedia designer.
+💻 Multimedia designer and QA Automation Engineer.
   - HTML ✔️
   - CSS ✔️
   - Boostrap ✔️
@@ -11,6 +11,12 @@
   - Express.js ✔️
   - MongoDB ✔️
   - PostgreSQL ✔️
+  - Java
+  - Selenium
+  - Appium
+  - SikuliX
+  - Katalon
+  - JMeter
 - 🔍 I’m currently learning:
   - Soon
 <!---
